@@ -1,0 +1,20 @@
+{
+  "name": "devdoc",
+  "version": "0.0.1",
+  "description": "For Dev.Hamzone.cn",
+  "main": "index.js",
+  "repository": "dev.hamzone.cn",
+  "author": "Emin.lin(BG5UWQ)",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}

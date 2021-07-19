@@ -1,0 +1,3 @@
+Sitemap: https://dev.hamzone.cn/sitemap.xml
+
+User-agent: *
